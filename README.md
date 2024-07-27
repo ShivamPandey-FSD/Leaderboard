@@ -43,6 +43,7 @@ This project is a dynamic and interactive streamer leaderboard built with React.
 
 ### Code Structure
 
+```bash
 streamer-leaderboard/
 ├── public/
 │   ├── index.html
